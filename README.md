@@ -1,0 +1,2 @@
+# affiliatescale
+Services for communicate
